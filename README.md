@@ -1,4 +1,4 @@
-  # Note-take-app
+  # Note-taker-app
   ## License Info
 This is licensed with No License 
   
